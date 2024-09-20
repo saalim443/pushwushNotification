@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726037876609",
+    "project_id": "pushwush-3aaba",
+    "storage_bucket": "pushwush-3aaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726037876609:android:a999388c06192fed906280",
+        "android_client_info": {
+          "package_name": "com.example.pushwush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqr6e9VnIFXSt2oXSHVaZd_Dk9sEcvT4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
